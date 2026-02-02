@@ -19,10 +19,6 @@
   ],
   "author": "Rainer Simon",
   "license": "BSD-3-Clause",
-  "funding": {
-    "type": "patreon",
-    "url": "https://www.patreon.com/rainersimon"
-  },
   "bugs": {
     "url": "https://github.com/SamhammerAG/recogito-js/issues"
   },
